@@ -1,4 +1,4 @@
-name:               "Vic Chen"
+name:               "Ink"
 description:        "Stay hungry. Stay foolish."
 
 url:                ""
@@ -25,6 +25,10 @@ permalink:          /:year/:month/:day/:title/
 markdown:           kramdown
 
 nav:
+  - name:           "Resume"
+    href:           "/resume"
+  - name:           "Project Gallery"
+    href:           "/gallery"
   - name:           "About"
     href:           "/about"
   - name:           "Download"
