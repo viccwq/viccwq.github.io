@@ -8,6 +8,7 @@ permalink: /gallery/
 
 ### Home Page ###
 ![picure-01]({{ site.url }}/assets/profile/home_page_2.png)
+
 ### Corner Location ###
 ![picure-01]({{ site.url }}/assets/s1.jpg)
 
