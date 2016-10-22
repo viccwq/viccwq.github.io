@@ -4,7 +4,8 @@ permalink: /about/
 ---
 [[*Home*]  > >](/)  
 &nbsp;  
-<img src="http://viccwq.github.io/material/profile/profile_2.jpg">   
+<img src="http://viccwq.github.io/material/profile/profile_2.jpg" width="180">   
+<img src="{{ site.url }}/assets/profile/home_page_2.png" width="180">     
 <p class="heavy-title">Welcome to Visit My Homepage .^_^.</p>
 &nbsp;  
 
