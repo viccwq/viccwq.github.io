@@ -5,12 +5,14 @@ permalink: /projects/project-03
   
 OCR based on DSP C6000
 ---  
-*2016.5-now*  
+*2016.05-now*  
 &nbsp;  
 &nbsp; &nbsp; **1. Image prestreatment**  
 <img src="http://viccwq.github.io/material/projects/cny_01.jpg" width="500">    
 &nbsp; &nbsp; **2. OCR procedural**  
 <img src="http://viccwq.github.io/material/projects/cny_02.jpg" width="500">  
+&nbsp; &nbsp; **3. CCS simulation result**  
+<img src="http://viccwq.github.io/material/projects/cny_04.jpg" width="800">  
 &nbsp;  
 [[**Home**]  > > >](/)  
 
