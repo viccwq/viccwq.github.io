@@ -17,21 +17,23 @@ permalink: /resume_cn/
 &nbsp; &nbsp; 江苏阿瑞斯智能设备有限公司 | 图像处理算法工程师  
 2014/03 -- 2016/05  
 &nbsp; &nbsp; 江南计算技术研究所 | 软件工程师  
-2009/07 -- 2010/07  
+2009/05 -- 2011/04  
 &nbsp; &nbsp; 精博电子(南京)有限公司 | 测试工程师  
 
 项目
 ---
 2016/05 -- 至今  
-&nbsp; &nbsp; 人民币冠字号识别（OCR）  
+&nbsp; &nbsp; 人民币冠字号识别（OCR）[[*Gallery*]  > >](/projects/project-03)  
 2014/03 -- 2016/05  
 &nbsp; &nbsp; 网络密码机开发  
+2013/04 -- 2014/03    
+&nbsp; &nbsp; 医学CT图像分割 [[*Gallery*]  > >](/projects/project-04)  
 2013/08 -- 2014/01  
 &nbsp; &nbsp; 基于DSP 嵌入式系统的图像增强  
 2011/09 -- 2013/12  
-&nbsp; &nbsp; 基于医学图像的有限元模型构造方法  
+&nbsp; &nbsp; 基于医学图像的有限元模型构造方法 [[*Gallery*]  > >](/projects/project-01)  
 2011/09 -- 2012/12  
-&nbsp; &nbsp; 江西省高速公路养护数据中心（软件系统）  
+&nbsp; &nbsp; 江西省高速公路养护数据中心（软件系统）[[*Gallery*]  > >](/projects/project-02) 
 
 荣誉
 ---

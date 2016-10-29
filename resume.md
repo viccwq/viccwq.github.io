@@ -17,21 +17,23 @@ Experiences
 &nbsp; &nbsp; Ares IntelTech Co.,Ltd |  Image algorithm engineer  
 2014/03 -- 2016/05  
 &nbsp; &nbsp; Jiangnan institute of computing technology | software engineer  
-2009/07 -- 2010/07  
+2009/05 -- 2011/04  
 &nbsp; &nbsp; Kimball Electronics (Nanjing)Co.,Ltd | Test engineer  
 
 Projects
 ---
 2016/05 -- Now  
-&nbsp; &nbsp; Optical Character Recognition for CNY  
+&nbsp; &nbsp; Optical Character Recognition for CNY [[*Gallery*]  > >](/projects/project-03)  
 2014/03 -- 2016/05  
 &nbsp; &nbsp; IP cipher machine development  
+2013/04 -- 2014/03    
+&nbsp; &nbsp; CT medical image segmentation [[*Gallery*]  > >](/projects/project-04)  
 2013/08 -- 2014/01  
 &nbsp; &nbsp; Image Enhancement Technology Based on DSP  
 2011/09 -- 2013/12  
-&nbsp; &nbsp; Finite Element Modeling based on Medical Image  
+&nbsp; &nbsp; Finite Element Modeling based on Medical Image [[*Gallery*]  > >](/projects/project-01)  
 2011/09 -- 2012/12  
-&nbsp; &nbsp; Data Center of expressway maintenance for Jiangxi Province(software system)  
+&nbsp; &nbsp; Data Center of expressway maintenance for Jiangxi Province(software system) [[*Gallery*]  > >](/projects/project-02)  
 
 Honors
 ---
