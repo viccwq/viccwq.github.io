@@ -7,7 +7,7 @@ permalink: /resume/
 Education
 ---
 2011/09 -- 2014/07  
-&nbsp; &nbsp; Nanchang University of Aeronautics | Electronic Information Science and Technology | Master  
+&nbsp; &nbsp; Nanchang University of Aeronautics | Signal and Information Processing(DIP) | Master  
 2005/09 -- 2009/07  
 &nbsp; &nbsp; Nanjing University of Science and Technology | Electronic and Information Engineering | Bachelor  
 
@@ -25,7 +25,7 @@ Projects
 2016/05 -- Now  
 &nbsp; &nbsp; Optical Character Recognition for CNY [[*Gallery*]  > >](/projects/project-03)  
 2014/03 -- 2016/05  
-&nbsp; &nbsp; IP cipher machine development  
+&nbsp; &nbsp; Network equipment development  
 2013/04 -- 2014/03    
 &nbsp; &nbsp; CT medical image segmentation [[*Gallery*]  > >](/projects/project-04)  
 2013/08 -- 2014/01  

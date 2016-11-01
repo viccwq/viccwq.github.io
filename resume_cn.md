@@ -7,7 +7,7 @@ permalink: /resume_cn/
 教育
 ---
 2011/09 -- 2014/07  
-&nbsp; &nbsp; 南昌航空大学 | 电子信息科学与技术 | 硕士  
+&nbsp; &nbsp; 南昌航空大学 | 信号与信息处理(图像处理) | 硕士  
 2005/09 -- 2009/07  
 &nbsp; &nbsp; 南京理工大学 | 电子信息工程 | 本科  
 
@@ -25,7 +25,7 @@ permalink: /resume_cn/
 2016/05 -- 至今  
 &nbsp; &nbsp; 人民币冠字号识别（OCR）[[*Gallery*]  > >](/projects/project-03)  
 2014/03 -- 2016/05  
-&nbsp; &nbsp; 网络密码机开发  
+&nbsp; &nbsp; 网络设备开发  
 2013/04 -- 2014/03    
 &nbsp; &nbsp; 医学CT图像分割 [[*Gallery*]  > >](/projects/project-04)  
 2013/08 -- 2014/01  
