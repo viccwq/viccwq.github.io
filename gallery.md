@@ -4,9 +4,9 @@ permalink: /gallery/
 ---
 [[*Home*]  > >](/)  
 &nbsp;  
-**2016.05-now**  
+**2016.04-now**  
 &nbsp; &nbsp; [[*OCR based on DSP C6000*]  > >](/projects/project-03)  
-**2014.03-2016.05**  
+**2014.03-2016.04**  
 &nbsp; &nbsp; [[*IP cipher machine development*]  > >](/)  
 **2013.04-2014.03**  
 &nbsp; &nbsp; [[*CT medical image segmentation*]  > >](/projects/project-04)  

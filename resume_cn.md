@@ -13,18 +13,18 @@ permalink: /resume_cn/
 
 工作
 ---
-2016/05 -- 至今  
+2016/04 -- 至今  
 &nbsp; &nbsp; 江苏阿瑞斯智能设备有限公司 | 图像处理算法工程师  
-2014/03 -- 2016/05  
+2014/03 -- 2016/04  
 &nbsp; &nbsp; 江南计算技术研究所 | 软件工程师  
 2009/05 -- 2011/04  
 &nbsp; &nbsp; 精博电子(南京)有限公司 | 测试工程师  
 
 项目
 ---
-2016/05 -- 至今  
+2016/04 -- 至今  
 &nbsp; &nbsp; 人民币冠字号识别（OCR）[[*Gallery*]  > >](/projects/project-03)  
-2014/03 -- 2016/05  
+2014/03 -- 2016/04  
 &nbsp; &nbsp; 网络设备开发  
 2013/04 -- 2014/03    
 &nbsp; &nbsp; 医学CT图像分割 [[*Gallery*]  > >](/projects/project-04)  
@@ -45,7 +45,9 @@ permalink: /resume_cn/
 期刊论文：  
 &nbsp; &nbsp; [《从表面重构的体数据实现3维网格剖分》](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20140516&flag=1)  
 硕士论文：  
-&nbsp; &nbsp; [《基于表面模型的四面体化方法研究及应用》](http://d.wanfangdata.com.cn/Thesis/D569748)
+&nbsp; &nbsp; [《基于表面模型的四面体化方法研究及应用》](http://d.wanfangdata.com.cn/Thesis/D569748)    
+发明专利：    
+&nbsp; &nbsp; 《一种基于DSP的纸币冠字号智能识别方法》    
 
 技能
 ---

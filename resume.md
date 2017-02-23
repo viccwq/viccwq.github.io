@@ -13,18 +13,18 @@ Education
 
 Experiences
 ---
-2016/05 -- Now  
+2016/04 -- Now  
 &nbsp; &nbsp; Ares IntelTech Co.,Ltd |  Image algorithm engineer  
-2014/03 -- 2016/05  
+2014/03 -- 2016/04  
 &nbsp; &nbsp; Jiangnan institute of computing technology | software engineer  
 2009/05 -- 2011/04  
 &nbsp; &nbsp; Kimball Electronics (Nanjing)Co.,Ltd | Test engineer  
 
 Projects
 ---
-2016/05 -- Now  
+2016/04 -- Now  
 &nbsp; &nbsp; Optical Character Recognition for CNY [[*Gallery*]  > >](/projects/project-03)  
-2014/03 -- 2016/05  
+2014/03 -- 2016/04  
 &nbsp; &nbsp; Network equipment development  
 2013/04 -- 2014/03    
 &nbsp; &nbsp; CT medical image segmentation [[*Gallery*]  > >](/projects/project-04)  
@@ -45,7 +45,9 @@ Publications
 JOURNAL：  
 &nbsp; &nbsp; [《Three-de mesh generation through volume data reconstructed from surface》](http://www.cjig.cn/jig/ch/reader/view_abstract.aspx?file_no=20140516&flag=1)  
 THESIS ：  
-&nbsp; &nbsp; [《The Study and Application of Tetrahedral Mesh Generation Method based on Surface Mode》](http://d.wanfangdata.com.cn/Thesis/D569748)
+&nbsp; &nbsp; [《The Study and Application of Tetrahedral Mesh Generation Method based on Surface Mode》](http://d.wanfangdata.com.cn/Thesis/D569748)    
+PATENT：    
+&nbsp; &nbsp; 《一种基于DSP的纸币冠字号智能识别方法》    
 
 Skills
 ---
